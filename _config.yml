@@ -13,7 +13,7 @@ subtitle: "Small articles about big problems"
 email: senkadam@gmail.com
 name: Adam Šenk
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Blog covering some minor data and database topics.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -38,10 +38,10 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: senkadam
+disqus_shortname: howtodata
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-71741502-1"
 
 # Category descriptions (for archive pages)
 descriptions:
